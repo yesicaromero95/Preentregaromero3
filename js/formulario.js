@@ -23,3 +23,13 @@ formulario.addEventListener("submit", (e)=>{
     console.log (datosUsuarios);
 
 })
+
+document.querySelector("#libreria").addEventListener("click", ()=>{
+    Swal.fire({
+        position: "center",
+        icon: "success",
+        title: "Tu mensaje fué enviado con éxito",
+        showConfirmButton: false,
+        timer: 3000
+      });
+})

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nombre": "Tronco de brasil",
+        "foto": "tronco_de_brasil.jpg",
+        "precio": "$15.000"
+    },
+    {
+        "id": 2,
+        "nombre": "Potus",
+        "foto": "potus.png",
+        "precio": "$3.000"
+    },
+    {
+        "id": 3,
+        "nombre": "Lazo de amor",
+        "foto": "lazo_de_amor.webp",
+        "precio": "$3.500"
+    },
+    {
+        "id": 4,
+        "nombre": "Aloe vera",
+        "foto": "aloe_vera.jpg",
+        "precio": "$3.000"
+    },
+    {
+        "id": 5,
+        "nombre": "Monstera",
+        "foto": "planta_monstera.jpg",
+        "precio": "$5.000"
+    },
+    {
+        "id": 6,
+        "nombre": "Palmera de salon",
+        "foto": "palmera_de_salon.webp",
+        "precio": "$6.500"
+    }
+]
